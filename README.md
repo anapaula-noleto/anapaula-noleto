@@ -1,4 +1,4 @@
-### Olá! Eu sou a Ana, sou uma desenvoldedora de software! 👋
+### Olá! Eu sou a Ana, sou uma desenvolvedora de software! 👋
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapaula-noleto&layout=compact&langs_count=7&theme=dracula"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
